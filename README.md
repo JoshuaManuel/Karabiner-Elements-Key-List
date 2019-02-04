@@ -2,7 +2,7 @@
 
 Below is a list of the keys for [Karabiner Elements](https://pqrs.org/osx/karabiner/), a powerful keyboard customization utility.
 
-I found a list of the keycodes in the comments of a github thread, so I decided to clean them up to be a little more human-readable.
+I found a list of the keycodes in the comments of a github thread, so I decided to clean them up to be a little more human-readable. If you find an inaccuracy in this list, feel free to make a pull request or contact me.
 
 Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/karabiner/json.html) for a detailed explanation of how to make your own complex modifications.
 
@@ -28,7 +28,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 
 - name: fn
 
-  ### Controls and symbols
+### Controls and symbols
 
 - name: return_or_enter
 
@@ -79,7 +79,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 
 - name: non_us_backslash
 
-  ### Arrow keys
+### Arrow keys
 
 - name: up_arrow
 
@@ -97,7 +97,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 
 - name: end
 
-  ### Letter keys
+### Letter keys
 
 - name: a
 
@@ -151,7 +151,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 
 - name: z
 
-  ### Number keys
+### Number keys
 
 - name: '1'
 
@@ -173,7 +173,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 
 - name: '0'
 
-  ### Function keys
+### Function keys
 
 - name: f1
 
@@ -227,7 +227,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 - name: f24
   not_to: true
 
-  ### Media controls
+### Media controls
 
 - name: display_brightness_decrement
   not_from: true
@@ -280,7 +280,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 - name: apple_top_case_display_brightness_increment
   not_from: true
 
-  ### Keypad keys
+### Keypad keys
 
 - name: keypad_num_lock
 
@@ -320,13 +320,13 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 
 - name: keypad_comma
 
-  ### Virtual Keys
+### Virtual Keys
 
 - name: vk_none
   label: vk_none (disable this key)
   not_from: true
 
-  ### Keys in PC keyboards
+### Keys in PC keyboards
 
 - name: print_screen
 
@@ -372,7 +372,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 - name: find
   not_to: true
 
-  ### International keys
+### International keys
 
 - name: international1
 
@@ -424,7 +424,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
 - name: lang9
   not_to: true
 
-  ### Japanese
+### Japanese
 
 - name: japanese_eisuu
   label: 英数キー
@@ -444,7 +444,7 @@ Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/
   label: PCキーボードのかなキー
   not_to: true
 
-  ### Others
+### Others
 
 - name: keypad_equal_sign_as400
   not_to: true
