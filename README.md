@@ -4,7 +4,7 @@ Below is a list of the keys for [Karabiner Elements](https://pqrs.org/osx/karabi
 
 I found a list of the keycodes in the comments of a github thread, so I decided to clean them up to be a little more human-readable. If you find an inaccuracy in this list, feel free to make a pull request or contact me.
 
-Make sure to consult the [Karabiner.json Reference Manual](https://pqrs.org/osx/karabiner/json.html) for a detailed explanation of how to make your own complex modifications.
+Make sure to consult the [Karabiner.json Reference Manual](https://karabiner-elements.pqrs.org/docs/json/) for a detailed explanation of how to make your own complex modifications.
 
 ### Modifier keys
 
